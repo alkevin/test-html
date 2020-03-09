@@ -1,5 +1,5 @@
 name: Deploy my html to Heroku
-on: push
+on: [push]
 
 jobs:
   heroku:
